@@ -12,6 +12,7 @@ the [Profile card component challenge on Frontend Mentor](https://www.frontendme
     - [Links](#links)
 - [My process](#my-process)
     - [Built with](#built-with)
+    - [Deployed To](#deployed-to)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -36,8 +37,8 @@ feel free to give it a go.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nmckenna/FEM-Profile-Card-Component)
-- Live Site URL: [Add live site URL here](https://af841bd4.fem-profile-card-component.pages.dev/)
+- Solution URL: [FEM-Profile-Card-Component Source](https://github.com/nmckenna/FEM-Profile-Card-Component)
+- Live Site URL: [FEM-Profile-Card-Component Site](https://af841bd4.fem-profile-card-component.pages.dev/)
 
 ## My process
 
@@ -47,3 +48,6 @@ feel free to give it a go.
 - CSS custom properties
 - Mobile-first workflow
 
+### Deployed to
+
+- Cloudflare Pages
