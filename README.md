@@ -38,7 +38,7 @@ feel free to give it a go.
 ### Links
 
 - Solution URL: [FEM-Profile-Card-Component Source](https://github.com/nmckenna/FEM-Profile-Card-Component)
-- Live Site URL: [FEM-Profile-Card-Component Site](https://af841bd4.fem-profile-card-component.pages.dev/)
+- Live Site URL: [FEM-Profile-Card-Component Site](https://fem-profile-card-component-six.vercel.app/)
 
 ## My process
 
@@ -50,4 +50,4 @@ feel free to give it a go.
 
 ### Deployed to
 
-- Cloudflare Pages
+- Vercel
